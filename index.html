@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Electron App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Search for a Torrent</h1>
+    <div class="form-group">
+      <label for="providerSelect">Provider:</label>
+      <select id="providerSelect">
+        <option value="ThePirateBay">ThePirateBay</option>
+        <option value="Yts">Yts</option>
+        <option value="KickassTorrents">KickassTorrents</option>
+        <option value="Torrent9">Torrent9</option>
+        <option value="Torrentz2">Torrentz2</option>
+        <option value="Limetorrents">Limetorrents</option>
+        <option value="TorrentProject">TorrentProject</option>
+        <option value="1337x">1337x</option>
+        <option value="Rarbg">Rarbg</option>
+        <option value="Eztv">Eztv</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="torrentNameInput">Torrent Name:</label>
+      <input type="text" id="torrentNameInput" placeholder="Enter torrent name">
+    </div>
+    <button id="searchButton">Search</button>
+    <pre id="results"></pre>
+  </div>
+  <script src="renderer.js"></script>
+</body>
+</html>
