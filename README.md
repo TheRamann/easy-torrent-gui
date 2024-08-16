@@ -1,30 +1,26 @@
 # Torrent-Gui
 
-Ever felt lazy and wanted an app to search torrents itself for you? <br>
-Well..... it's here
+Ever wished for an app that could effortlessly search for torrents on your behalf?  
+Look no further—it's here.
 
+# Preview <img src="https://cdn.discordapp.com/emojis/701533218951790643.gif?v=1" alt="✌" width="25px">
 
-# Preview <img src="https://cdn.discordapp.com/emojis/701533218951790643.gif?v=1" alt = "✌" width="25 px">
+<img src="assets\images\sc.jpg" width="450">  
 
-<img src = "assets\images\sc.jpg" width = "450"> <br>
+# Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt="🖥" width="35px">
 
+You can download the latest version [here](#).  
+**Note:** Some antivirus programs may flag this application as a potential threat. It's advisable to temporarily disable your antivirus software during installation.
 
-# Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt = "🖥" width="35px">
+# Common Issues <img src="https://cdn.discordapp.com/emojis/788360740822056960.gif?v=1" alt="😔👍" width="30px">
 
-Download it from here
-<br>
-Note :- The application may be identified as virus by anti-virus. So, disable the anti-virus before installing .
+Antivirus software might interfere with the app's functionality. If you encounter any issues, try disabling the Browsing Protection feature in your antivirus software while using the app.  
+You can re-enable this feature once your session is complete. Below is a guide on how to disable Browsing Protection in Quick Heal:
 
+<img src="https://github.com/TheRamann/torrent-gui/blob/main/Md%20Files/2021-04-05%2018_46_36-Quick%20Heal.png?raw=true">  
+<img src="https://github.com/TheRamann/torrent-gui/blob/main/Md%20Files/2021-04-05%2018_44_09-Quick%20Heal.png?raw=true">  
+<img src="https://github.com/TheRamann/torrent-gui/blob/main/Md%20Files/2021-04-05%2018_47_50-Quick%20Heal.png?raw=true">  
 
-# Common Errors <img src = "https://cdn.discordapp.com/emojis/788360740822056960.gif?v=1" alt = "😔👍" width = "30">
+# Appreciate the Tool? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt="✏" width="35px">
 
-AntiVirus often creates an error. The error can be easily tackled by disabling Browsing Protection in your AntiVirus while using it. You can enable Browsing Protection in your AntiVirus after usage. An example to disable Browsing Protection in Quick Heal is given below.
-<img src = "https://github.com/TheRamann/torrent-gui/blob/main/Md%20Files/2021-04-05%2018_46_36-Quick%20Heal.png?raw=true">
-<img src = "https://github.com/TheRamann/torrent-gui/blob/main/Md%20Files/2021-04-05%2018_44_09-Quick%20Heal.png?raw=true">
-<img src = "https://github.com/TheRamann/torrent-gui/blob/main/Md%20Files/2021-04-05%2018_47_50-Quick%20Heal.png?raw=true">
-You can enable Browsing Protection in your AntiVirus after usage
-
-# Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
-<a href = "https://www.buymeacoffee.com/TheRamann">
-Support the creator here
-</a>
+If you find this tool useful, consider supporting the creator [here](https://www.buymeacoffee.com/TheRamann).
