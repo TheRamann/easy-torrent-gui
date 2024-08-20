@@ -1,5 +1,5 @@
 
-# Torrent-Gui (deprecated)
+# Torrent-Gui
 
 Ever wished for an app that could effortlessly search for torrents on your behalf?  
 Look no further—it's here.
