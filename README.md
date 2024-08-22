@@ -6,7 +6,7 @@ Look no further—it's here.
 
 # Preview <img src="https://cdn.discordapp.com/emojis/701533218951790643.gif?v=1" alt="✌" width="25px">
 
-<img src="https://raw.githubusercontent.com/TheRamann/easy-torrent-gui/main/assets/images/sc.jpg" width="450">  
+<img src="https://github.com/TheRamann/easy-torrent-gui/blob/main/assets/images/sc.png?raw=true" width="500">  
 
 # Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt="🖥" width="35px">
 
