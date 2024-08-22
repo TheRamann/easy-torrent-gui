@@ -27,7 +27,21 @@
       <input type="text" id="torrentNameInput" placeholder="Enter torrent name">
     </div>
     <button id="searchButton">Search</button>
-    <pre id="results"></pre>
+    <div id="results-container">
+      <table id="results" style="display: none;">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Size</th>
+            <th>Seeds</th>
+            <th>Peers</th>
+            <th>Magnet Link</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <div id="no-results" style="display: none;">No results found</div>
+    </div>
   </div>
   <script src="renderer.js"></script>
 </body>

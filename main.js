@@ -8,8 +8,8 @@ function createWindow() {
     height: 600,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
-      nodeIntegration: false,  // It's good to keep this disabled for security
-      contextIsolation: true,  // Enable context isolation
+      nodeIntegration: false,  
+      contextIsolation: true,  
     },
   });
 
